@@ -1,0 +1,22 @@
+[
+  {
+    "name": "first",
+    "marks": 90,
+    "timestamp": "2024-10-17T21:27:56.094Z"
+  },
+  {
+    "name": "second",
+    "marks": 50,
+    "timestamp": "2024-10-17T21:28:08.045Z"
+  },
+  {
+    "name": "third",
+    "marks": 20,
+    "timestamp": "2024-10-17T21:28:18.051Z"
+  },
+  {
+    "name": "last",
+    "marks": 75,
+    "timestamp": "2024-10-17T21:28:28.997Z"
+  }
+]
